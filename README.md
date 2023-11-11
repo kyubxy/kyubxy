@@ -19,7 +19,7 @@ I've changed this account's name like 8 times, I'm so sorry if this messes anyti
 
 ### Other cool stuff
 - Liftoff - maimai chart editor
-- Yasai (Archived) - OpenGL graphics framework
+- [Yasai (Archived)](https://github.com/kyubxy/Yasai) - OpenGL graphics framework
 <!--
 **kyubxy/kyubxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
