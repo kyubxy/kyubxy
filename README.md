@@ -1,5 +1,25 @@
-### Hi there 👋
+# I am really bad at programming!
 
+<p align="center">
+<img src="https://github.com/kyubxy/kyubxy/assets/28855597/d4396d3e-b37d-45c3-9da3-ec81b4ea9079" width=400 />
+</p>
+
+I've changed this account's name like 8 times, I'm so sorry if this messes anyting up!
+
+- Currently studying the Bachelor of Software Engineering @ ANU
+- I really like working on low level systems - C/C++ is often my weapon of choice
+- If I don't care too much about memory, I'll use C#
+- Chronically addicted to music games - currently playing maimai 🧺 and etterna 🢃
+
+## Projects (i've barely started any of them but i'll upload them soon)
+### The ystar project
+- language specification
+- compiler
+- virtual machine
+
+### Other cool stuff
+- Liftoff - maimai chart editor
+- Yasai (Archived) - OpenGL graphics framework
 <!--
 **kyubxy/kyubxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
