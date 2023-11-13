@@ -14,7 +14,7 @@ I've changed this account's name like 8 times, I'm so sorry if this messes anyti
 ## Projects (i've barely started any of them but i'll upload them soon)
 ### The ystar project
 - [language specification](https://github.com/kyubxy/ystar-lang)
-- compiler
+- [compiler](https://github.com/kyubxy/ystar-compiler)
 - [virtual machine](https://github.com/kyubxy/ystar-vm)
 
 ### Other cool stuff
