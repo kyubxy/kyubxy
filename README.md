@@ -11,9 +11,9 @@ I've changed this account's name like 8 times, I'm so sorry if this messes anyti
 - If I don't care too much about memory, I'll use C#
 - Chronically addicted to music games - currently playing maimai 🧺 and etterna 🢃
 
-## Projects (i've barely started any of them but i'll upload them soon)
+## Projects 
 ### The ystar project
-- [language specification](https://github.com/kyubxy/ystar-lang)
+- [landing page/language spec](https://github.com/kyubxy/ystar-lang)
 - [compiler](https://github.com/kyubxy/ystar-compiler)
 - [virtual machine](https://github.com/kyubxy/ystar-vm)
 
