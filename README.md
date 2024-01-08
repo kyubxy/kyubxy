@@ -9,7 +9,7 @@ I've changed this account's name like 8 times, I'm so sorry if this messes anyti
 - Currently studying the Bachelor of Software Engineering @ ANU
 - I really like working on low level systems - C/C++ is often my weapon of choice
 - If I don't care too much about memory, I'll use C#
-- Chronically addicted to music games - currently playing maimai 🧺 and etterna 🢃
+- Chronically addicted to music games - currently playing maimai and arcaea
 
 ## Projects 
 ### The ystar project
