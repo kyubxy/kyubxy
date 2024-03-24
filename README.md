@@ -12,7 +12,7 @@ I've changed this account's name like 8 times, I'm so sorry if this messes anyti
 - Chronically addicted to music games - currently playing maimai and bms
 
 ## Projects 
--  [lambda calculus calculator](https://github.com/kyubxy/lambda/tree/main) 
+-  [lambda calculus calculator](https://github.com/kyubxy/LambdaCalc/tree/master) 
 -  [nijirate rating breakdown video generator](https://github.com/kyubxy/nijirate)
   
 ### The ystar project
