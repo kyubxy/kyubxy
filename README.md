@@ -7,18 +7,14 @@
 I've changed this account's name like 8 times, I'm so sorry if this messes anyting up!
 
 - Currently studying the Bachelor of Software Engineering @ ANU
-- I really like working on low level systems 
-- I'm also trying to learn more about program proofs and logic
+- I like working on low level systems 
+- I'm also trying to learn more about web development overall - both backend and frontend
 - Chronically addicted to music games - currently playing maimai and iidx
 
 ## Projects 
 -  [lambda calculus calculator](https://github.com/kyubxy/LambdaCalc/tree/master) 
--  [nijirate rating breakdown video generator](https://github.com/kyubxy/nijirate)
-  
-### The ystar project (somewhat on temporary hiatus)
-- [landing page + language spec](https://github.com/kyubxy/ystar-lang)
-- [compiler](https://github.com/kyubxy/ystar-compiler)
-- [virtual machine](https://github.com/kyubxy/ystar-vm)
+-  [nijirate rating breakdown video generator (discontinued)](https://github.com/kyubxy/nijirate)
+-  [process virtual machine (discontinued)](https://github.com/kyubxy/ystar-vm)
 
 ### Other cool stuff
 - [Yasai (Archived)](https://github.com/kyubxy/Yasai) - OpenGL graphics framework
