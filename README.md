@@ -1,15 +1,10 @@
-# I am really bad at programming!
-
-<p align="center">
-<img src="https://github.com/kyubxy/kyubxy/assets/28855597/d4396d3e-b37d-45c3-9da3-ec81b4ea9079" width=400 />
-</p>
+# Hello!
 
 I've changed this account's name like 8 times, I'm so sorry if this messes anyting up!
 
 - Currently studying the Bachelor of Software Engineering @ ANU
 - I like working on low level systems 
 - I'm also trying to learn more about web development overall - both backend and frontend
-- Chronically addicted to music games - currently playing maimai and iidx
 
 ## Projects 
 -  [lambda calculus calculator](https://github.com/kyubxy/LambdaCalc/tree/master) 
