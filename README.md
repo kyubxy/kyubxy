@@ -6,13 +6,11 @@ I've changed this account's name like 8 times, I'm so sorry if this messes anyti
 - I like working on low level systems 
 - I'm also trying to learn more about web development overall - both backend and frontend
 
-## Projects 
+## Cool stuff I'm working on/have worked on
+-  [simai chart file parser](https://github.com/kyubxy/simai-analyzer)
 -  [lambda calculus calculator](https://github.com/kyubxy/LambdaCalc/tree/master) 
 -  [nijirate rating breakdown video generator (discontinued)](https://github.com/kyubxy/nijirate)
 -  [process virtual machine (discontinued)](https://github.com/kyubxy/ystar-vm)
-
-### Other cool stuff
-- [Yasai (Archived)](https://github.com/kyubxy/Yasai) - OpenGL graphics framework
 <!--
 **kyubxy/kyubxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
