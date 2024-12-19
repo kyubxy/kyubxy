@@ -3,7 +3,7 @@
 I've changed this account's name like 8 times, I'm so sorry if this messes anyting up!
 
 - Currently studying the Bachelor of Software Engineering @ ANU
-- I like working on low level systems 
+- FP is cool 
 - I'm also trying to learn more about web development overall - both backend and frontend
 
 ## Cool stuff I'm working on/have worked on
