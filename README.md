@@ -3,14 +3,11 @@
 I've changed this account's name like 8 times, I'm so sorry if this messes anyting up!
 
 - Currently studying the Bachelor of Software Engineering @ ANU
-- Functional programming is cool 
 - I'm also trying to learn more about web development overall - both backend and frontend
 
 ## Cool stuff I'm working on/have worked on
 -  [simai chart file parser](https://github.com/kyubxy/simai-analyzer)
 -  [lambda calculus calculator](https://github.com/kyubxy/LambdaCalc/tree/master) 
--  [nijirate rating breakdown video generator (discontinued)](https://github.com/kyubxy/nijirate)
--  [process virtual machine (discontinued)](https://github.com/kyubxy/ystar-vm)
 <!--
 **kyubxy/kyubxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
