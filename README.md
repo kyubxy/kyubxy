@@ -7,8 +7,11 @@ I've changed this account's name like 8 times, I'm so sorry if this messes anyti
 - I'm interested in and like working on rhythm game related tools and software
 
 ## Cool stuff I made that you should check out
--  [Simai chart file parser](https://github.com/kyubxy/simai-analyzer) - a serialiser and deserialiser for the [simai](https://w.atwiki.jp/simai/pages/1003.html#id_d9e6227a) file format written in func(tional typescript.
--  [Lambda calculus calculator](https://github.com/kyubxy/LambdaCalc/tree/master) - a parser and evaluator for the [untyped lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
+
+|Project | Description|
+|---|---|
+|[Simai chart file parser](https://github.com/kyubxy/simai-analyzer) | A serialiser and deserialiser for the [simai](https://w.atwiki.jp/simai/pages/1003.html#id_d9e6227a) file format written in functional typescript.|
+| [Lambda calculus calculator](https://github.com/kyubxy/LambdaCalc/tree/master) | A parser and evaluator for the [untyped lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus) |
 <!--
 **kyubxy/kyubxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
