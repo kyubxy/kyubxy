@@ -1,10 +1,4 @@
-# Hello!
-
-I've changed this account's name like 8 times, I'm so sorry if this messes anyting up!
-
-- Currently studying the Bachelor of Software Engineering @ ANU
-- I'm also trying to learn more about web development overall - both backend and frontend
-- I'm interested in and like working on rhythm game related tools and software
+The person who does the things
 
 ## Cool stuff I made that you should check out
 
