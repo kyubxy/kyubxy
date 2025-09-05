@@ -1,8 +1,6 @@
 
 <img src="https://github.com/user-attachments/assets/d292119a-3460-4001-8865-7acebe00b536" width="500">
 
-## Cool stuff I made that you should check out
-
 |Project | Description|
 |---|---|
 |[Simai chart file parser](https://github.com/kyubxy/simai-analyzer) | A serialiser and deserialiser for the [simai](https://w.atwiki.jp/simai/pages/1003.html) file format written in functional typescript.|
