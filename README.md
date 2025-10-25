@@ -4,7 +4,7 @@ pic unrelated
 
 |Project | Description|
 |---|---|
-|[Simai chart file parser](https://github.com/kyubxy/simai-analyzer) | Serialiser and deserialiser for the [simai](https://w.atwiki.jp/simai/pages/1003.html) file format written in functional typescript.|
+|[Simai chart file parser](https://github.com/kyubxy/simai-analyzer) | Serialiser and deserialiser for the [simai](https://w.atwiki.jp/simai/pages/1003.html) file format written in typescript.|
 | [Lambda calculus calculator](https://github.com/kyubxy/LambdaCalc/tree/master) | [Untyped lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus) parser and evaluator |
 <!--
 **kyubxy/kyubxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
